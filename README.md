@@ -4,10 +4,14 @@ These are a collection of perl modules under the `IrssiX::` namespace which
 provide various additional functionality for use in Irssi scripts. Original
 inspiration, and (the overwhelmingly vast) majority of the code written by
 [Lukas Mai](http://mauke.hopto.org/stuff/irssi/lib/IrssiX/)
-(`mauke@irc.freenode.org/#irssi`).  __Eventually I'll get round to adding
-the functionality I have in mind, but right now the best place to fetch this
-code from is http://mauke.hopto.org/stuff/irssi/lib/IrssiX__ This is just a repo
-for my convenience.
+(`mauke@irc.freenode.org/#irssi`).
+
+__Eventually I'll get round to adding the functionality I have in mind, but
+right now the best place to fetch this code from is
+[http://mauke.hopto.org/stuff/irssi/lib/IrssiX](http://mauke.hopto.org/stuff/irssi/lib/IrssiX)__
+
+There's also some other interesting libs at
+[http://mauke.hopto.org/stuff/irssi/lib/](http://mauke.hopto.org/stuff/irssi/lib/)
 
 ## Description
 
@@ -24,7 +28,7 @@ pleasure.
 For now, you currently need [Dist::Zilla](http://dzil.org/) to do the
 various magicks. Once you've got that, a simple
 
-`$ dzil install` 
+`$ dzil install`
 
 is all that is needed.
 
